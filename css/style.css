@@ -1254,7 +1254,17 @@ header .circle {
 }
 
 /* End Hire me */
-
+.social-icons
+{
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+.social-icons i 
+{
+  font-size: 2rem;
+  color: #000;
+}
 /* Footer */
 
 .footer {
